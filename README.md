@@ -9,4 +9,4 @@ The website serves as a marketing and informational platform, highlighting the b
 
 ## Live Website
 The website is deployed via **GitHub Pages**:  
-[View Live Site](https://msoto2027.github.io/the-hidden-chapter/)  
+Click here (https://msoto2027.github.io/the-hidden-chapter/) to view the business webpage.  
