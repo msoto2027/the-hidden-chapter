@@ -9,14 +9,14 @@ The website provides information about the bookstore, its offerings, and communi
 
 The project will follow a series of milestones to stay on track:
 
-- **Project Scope:** Finish `scope.md` by Feb na, 2026.  
-- **Repository Setup:** Create the GitHub repo and make the first commit by Feb na, 2026.  
-- **Homepage:** Build `index.html` and the initial CSS by Feb na, 2026.  
-- **About Page:** Build `about.html` with mission, values, and community sections by Feb na, 2026.  
-- **CSS Refinement:** Make the site responsive and apply the cozy bookstore theme by Feb na, 2026.  
-- **Testing & Feedback:** Validate HTML/CSS, test in browsers, and get feedback by Feb na, 2026.  
-- **Documentation:** Finish `plan.md` and `retrospective.md` by Feb na, 2026.  
-- **Deployment:** Publish the website on GitHub Pages by Feb na, 2026.  
+- **Project Scope:** Finish `scope.md` by Feb 22, 2026.  
+- **Repository Setup:** Create the GitHub repo and make the first commit by Feb 22, 2026.  
+- **Homepage:** Build `index.html` and the initial CSS by Feb 23, 2026.  
+- **About Page:** Build `about.html` with mission, values, and community sections by Feb 23, 2026.  
+- **CSS Refinement:** Make the site responsive and apply the cozy bookstore theme by Feb 25, 2026.  
+- **Testing & Feedback:** Validate HTML/CSS, test in browsers, and get feedback by Feb 27, 2026.  
+- **Documentation:** Finish `plan.md` and `retrospective.md` by Feb 26, 2026.  
+- **Deployment:** Publish the website on GitHub Pages by Feb 27, 2026.  
 - **Final Review:** Make any last edits and submit the project by March 1, 2026.  
 
 ## Risks
@@ -56,3 +56,4 @@ I'll know the project is successful if:
 - Repository is organized and professional  
 - Website is live on GitHub Pages  
 - Project milestones completed on time
+- `README.md` is well written.
