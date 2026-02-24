@@ -56,4 +56,4 @@ I'll know the project is successful if:
 - Repository is organized and professional  
 - Website is live on GitHub Pages  
 - Project milestones completed on time
-- `README.md` is well written.
+- All .md files are well written.
