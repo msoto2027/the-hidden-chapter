@@ -5,8 +5,10 @@
 
 The website serves as a marketing and informational platform, highlighting the bookstore's offerings, store information, and community engagement, while following best practices in **repository organization**, **version control**, and **documentation**.
 
----
-
 ## Live Website
 The website is deployed via **GitHub Pages**:  
 Click here (https://msoto2027.github.io/the-hidden-chapter/) to view the business webpage.  
+
+## Documentation
+
+See the [docs/](./docs/) folder for more details.
