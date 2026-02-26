@@ -1,3 +1,6 @@
+# TOOL: PROJECT PLAN
+
+## Project Name: Project 03: The Hidden Chapter Small Business Website
 
 ## Project Overview
 The Hidden Chapter website is a two-page HTML/CSS site for an independent bookstore.  

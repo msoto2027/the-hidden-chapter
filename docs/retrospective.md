@@ -1,4 +1,6 @@
-# Project Retrospective | The Hidden Chapter Small Business Website
+# TOOL: PROJECT RETROSPECTIVE 
+
+## Project Name: Project 03: The Hidden Chapter Small Business Website
 
 ## What Went Well
 Working on The Hidden Chapter website went really well in a few key areas. I was able to create a **two-page HTML/CSS website** that is responsive and looks cozy and professional. Planning and organizing the project with a clear **scope and WBS** made building the site much easier. I also kept my **GitHub repository organized** with frequent commits and clear documentation. Testing my code and getting feedback from fellow peers and family members helped me catch mistakes early and improve the site before final submission.  
